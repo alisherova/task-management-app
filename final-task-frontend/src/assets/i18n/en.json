@@ -1,0 +1,15 @@
+{
+	"common.delete": "Delete user",
+	"common.edit": "Edit profile",
+	"common.logout": "Log out",
+	"header.login": "Log in",
+	"header.signup": "Sign up",
+	"home.aboutContent": "Task Tracker brings all your tasks, teammates, and tools together.\n                    Simple, flexible, and powerful. ",
+	"home.aboutContent2": "All it takes are boards, lists, and cards to get a clear view of who’s doing what and what needs to get done.",
+	"home.aboutContent3": " It boards keep tasks orginized and work moving forward. In a glance, see everything from \"things to do\" to \"aww yeah, we did it!\".",
+	"home.aboutTitle": "A productivity powerhouse",
+	"home.button": "Get Started",
+	"home.myInfo": "General information",
+	"home.myInfoContent": "I am Nurjakhon Alisherova, junior developer from Uzbekistan. I have been studying on this field for\n                    about one and a half year.",
+	"home.title": "Your Tasks, Tracked."
+}

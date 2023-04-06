@@ -20,59 +20,6 @@
 				<name>main</name>
 				<children>
 					<folder_node>
-						<name>common</name>
-						<children>
-							<concept_node>
-								<name>delete</name>
-								<description/>
-								<comment/>
-								<default_text/>
-								<translations>
-									<translation>
-										<language>en-US</language>
-										<approved>true</approved>
-									</translation>
-									<translation>
-										<language>ru-RU</language>
-										<approved>true</approved>
-									</translation>
-								</translations>
-							</concept_node>
-							<concept_node>
-								<name>edit</name>
-								<description/>
-								<comment/>
-								<default_text/>
-								<translations>
-									<translation>
-										<language>en-US</language>
-										<approved>true</approved>
-									</translation>
-									<translation>
-										<language>ru-RU</language>
-										<approved>true</approved>
-									</translation>
-								</translations>
-							</concept_node>
-							<concept_node>
-								<name>logout</name>
-								<description/>
-								<comment/>
-								<default_text/>
-								<translations>
-									<translation>
-										<language>en-US</language>
-										<approved>true</approved>
-									</translation>
-									<translation>
-										<language>ru-RU</language>
-										<approved>true</approved>
-									</translation>
-								</translations>
-							</concept_node>
-						</children>
-					</folder_node>
-					<folder_node>
 						<name>header</name>
 						<children>
 							<concept_node>

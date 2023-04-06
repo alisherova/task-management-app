@@ -1,7 +1,4 @@
 {
-	"common.delete": "Delete user",
-	"common.edit": "Edit profile",
-	"common.logout": "Log out",
 	"header.login": "Log in",
 	"header.signup": "Sign up",
 	"home.aboutContent": "Task Tracker brings all your tasks, teammates, and tools together.\n                    Simple, flexible, and powerful. ",

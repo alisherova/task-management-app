@@ -1,0 +1,16 @@
+{
+    "hosting": {
+        "public": "dist/final_task_angular",
+        "ignore": [
+            "firebase.json",
+            "**/.*",
+            "**/node_modules/**"
+        ],
+        "rewrites": [
+            {
+                "source": "**",
+                "destination": "/index.html"
+            }
+        ]
+    }
+}
